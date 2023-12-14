@@ -11,4 +11,8 @@ included:
 - netwon method
 - euler method
 - bisection method  
+- cosine similarity
+- rotation matrix
+- inverse matrix
+- solution & vertex of quadratic polynomial
   ...
