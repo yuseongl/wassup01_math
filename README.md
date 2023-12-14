@@ -10,5 +10,5 @@ included:
 - taylor series
 - netwon method
 - euler method
-- bisection method
-...
+- bisection method  
+  ...
